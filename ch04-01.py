@@ -20,7 +20,7 @@ node4.data = "다현3"
 node3.next = node4
 
 node5 = Node()
-node5.data = "다현3"
+node5.data = "다현4"
 node4.next = node5
 
 print(node1.data)
