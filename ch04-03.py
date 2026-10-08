@@ -40,5 +40,3 @@ print(current.data, end=" ")
 while current.lnk != None:
     current = current.link
     print(current.data, end=" ")
-
-
