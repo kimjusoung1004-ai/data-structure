@@ -27,7 +27,7 @@ node4.link = node5
 newNode = Node()
 newNode.data = "솔라"
 newNode.link = node2.link
-node2.link = newNode
+node1.link = newNode
 
 # 데이터 삭제
 node4.link = node5.link
